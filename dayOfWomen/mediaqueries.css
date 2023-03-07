@@ -1,0 +1,13 @@
+@media (max-width: 400px){
+    .img-main-sp
+    {
+        width: 40%;
+    }
+}
+@media (min-width: 1000px){
+    .text-container 
+    {
+        margin: 0px 70px;
+        font-size: 1.6rem;
+    }
+}

@@ -1,0 +1,43 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: rgba(255, 176, 255, 0.829);
+}
+.header-page 
+{
+    display: flex;
+    justify-content: center;
+}
+.img-title-container 
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}
+.img-title-sp 
+{
+    width: 92%;
+}
+.img-main-container
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.img-main-sp 
+{
+    width: 30%;
+    height: 35vh;
+}
+.text-container 
+{
+    font-size: 1.1rem;
+    font-family: cursive, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: justify;
+    margin: 0px 25px;
+}
